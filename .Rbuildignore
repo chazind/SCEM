@@ -8,3 +8,5 @@
 ^cran-comments\.md$
 ^NEWS\.md$
 ^CRAN-RELEASE$
+^\.positai$
+^\.claude$

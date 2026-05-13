@@ -28,6 +28,8 @@
 #'
 #' @export
 #'
+#' @import mathjaxr
+#'
 #' @returns
 #'
 #' A list containing the following components:
