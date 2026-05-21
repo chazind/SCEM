@@ -10,3 +10,5 @@
 ^CRAN-RELEASE$
 ^\.positai$
 ^\.claude$
+^_pkgdown\.yml$
+^pkgdown$

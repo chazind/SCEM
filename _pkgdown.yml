@@ -1,0 +1,7 @@
+#url: ~
+url: https://github.com/chazind/SCEM
+llm-docs: false
+template:
+  bootstrap: 5
+  math-rendering: mathjax
+
