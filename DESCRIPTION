@@ -17,7 +17,6 @@ LazyData: true
 RoxygenNote: 8.0.0
 Suggests: 
     knitr,
-    markdown,
     rmarkdown,
     testthat (>= 3.0.0),
     devtools

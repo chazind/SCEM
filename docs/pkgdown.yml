@@ -3,7 +3,7 @@ pkgdown: 2.2.0
 pkgdown_sha: ~
 articles:
   SCEM_example: SCEM_example.html
-last_built: 2026-05-20T22:11Z
+last_built: 2026-05-22T22:05Z
 urls:
   reference: https://github.com/chazind/SCEM/reference
   article: https://github.com/chazind/SCEM/articles
